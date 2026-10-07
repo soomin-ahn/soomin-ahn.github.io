@@ -23,7 +23,11 @@ const EARLIER_UNTIL = 2020;
 const DEFAULT_MEDIUM = { ko: "캔버스에 유화", en: "Oil on canvas" };
 
 const WORKS = [
-  { ko: "흔들리고 부유하는", en: "Drifting and Swaying", size: "112.1 × 145.5 cm", year: 2025, img: "drifting-and-swaying.jpg", main: true },
+  { ko: "떨어지는 해", en: "Sundown", size: "91.0 × 116.8 cm", year: 2026, img: "sundown.jpg" },
+  { ko: "바람", en: "Wind", size: "31.8 × 40.9 cm", year: 2026, img: "wind.jpg" },
+  { ko: "바람, 노을", en: "Wind at Dusk", size: "91.0 × 116.8 cm", year: 2026, img: "wind-at-dusk.jpg" },
+  { ko: "오후 : 빛", en: "Afternoon : Light", size: "72.7 × 72.7 cm", year: 2026, img: "afternoon-light.jpg" },
+  { ko: "오후 : 잔상", en: "Afternoon : Afterimage", size: "72.7 × 72.7 cm", year: 2026, img: "afternoon-afterimage.jpg" },  { ko: "흔들리고 부유하는", en: "Drifting and Swaying", size: "112.1 × 145.5 cm", year: 2025, img: "drifting-and-swaying.jpg", main: true },
   { ko: "흔들리는 수면", en: "Wavering Surface", size: "130.3 × 162.2 cm", year: 2025, img: "wavering-surface.jpg", main: true },
   { ko: "푸른빛에 덮인", en: "Veiled in Blue", size: "72.7 × 90.9 cm", year: 2025, img: "veiled-in-blue.jpg" },
   { ko: "해질녘의 방", en: "Sunset in the Room", size: "91.0 × 116.8 cm", year: 2025, img: "sunset-in-the-room.jpg", main: true },
