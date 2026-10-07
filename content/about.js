@@ -4,7 +4,7 @@
    - 쓰지 않는 항목은 "" 로 비워두면 화면에서 사라진다
    ========================================================= */
 
-const EMAIL = "email@example.com";
+const EMAIL = "soomin.ahn723@gmail.com";
 
 /* 아이디만 적어도 된다. 예: "soominahn" */
 const INSTAGRAM = "";
